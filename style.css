@@ -29,12 +29,15 @@ h1{
 	text-align: center;
 }
 
-.hello{
-	background-image:url("welcome.jpg");
-	background-repeat: no-repeat;
+#hello{
+	background-image:url("bean1.jpg");
+	background-size:cover;
 	color:white;
 	text-align: center;
-	margin-top:200px;
+	margin-right: 200px;
+    margin-left:1000px;
+    margin-top: 300px;
+    font-size:5em;
 }
 
 label{
