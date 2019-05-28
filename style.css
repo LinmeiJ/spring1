@@ -1,0 +1,89 @@
+@charset "ISO-8859-1";
+
+
+.hm{
+	
+	background-image:url("coffee.jpg");
+	background-repeat: no-repeat;
+	color:white;
+	text-align: center;
+	margin-top:200px;
+}
+
+.reg{
+	
+	display: inline-block;
+    margin-right: 1000px;
+    margin-left:10px;
+    margin-top: 3px;
+ 
+}
+
+h1{
+	font-size: 2em;
+}
+
+.bg{
+	background-image:url("bean2.jpg");
+	background-size:cover;
+	text-align: center;
+}
+
+.hello{
+	background-image:url("welcome.jpg");
+	background-repeat: no-repeat;
+	color:white;
+	text-align: center;
+	margin-top:200px;
+}
+
+label{
+	color: white;
+	font-weight: bold;
+	font-style:italic;
+	font-size:0.9em;
+}
+
+fieldset{
+	border: 3px solid white;
+	padding: 5px 3px;
+	line-height:1.6em;
+	text-align: center;
+}
+
+
+legend{
+	font-style: italic;
+	font-weight: bold;
+	font-size:1.3em;
+	color:white;
+	padding: 15px 15px;	
+}
+.bi{
+	width:30%;
+	height: 20%;
+	border:1px solid white;
+	outline: none;
+	text-aligh:left;
+}
+.ct{
+	width:60%;
+	height: 50%;
+	border:1px solid white;
+	outline: none;
+}
+p{
+	font-style: italic;
+	font-weight: bold;
+	font-size:1.3em;
+	color:white;
+}
+input[type="text"], textarea {
+
+  background-color:#F5F5F5;
+}
+
+
+input[type="submit"]:hover{
+	border:10px solid #101155;
+}
